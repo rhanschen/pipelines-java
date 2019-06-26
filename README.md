@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rhanschen/DevOps.YAML.Pipeline.Training/_apis/build/status/rhanschen.pipelines-java?branchName=master)](https://dev.azure.com/rhanschen/DevOps.YAML.Pipeline.Training/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
